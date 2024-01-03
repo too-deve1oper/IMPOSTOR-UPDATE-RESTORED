@@ -34,11 +34,12 @@ import flixel.graphics.frames.FlxAtlasFrames;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import flixel.group.FlxSpriteGroup;
 import flixel.input.keyboard.FlxKey;
+import flixel.input.mouse.FlxMouseEvent;
 import flixel.input.mouse.FlxMouseEventManager;
 import flixel.math.FlxMath;
 import flixel.math.FlxPoint;
 import flixel.math.FlxRect;
-import flixel.system.FlxSound;
+import flixel.sound.FlxSound;
 import flixel.text.FlxText;
 import flixel.tweens.FlxEase;
 import flixel.tweens.FlxTween;
@@ -1465,7 +1466,7 @@ class PlayState extends MusicBeatState
 					henryTeleporter.visible = true;
 					add(henryTeleporter);
 
-					FlxMouseEventManager.add(henryTeleporter, function onMouseDown(teleporter:FlxSprite)
+					FlxMouseEvent.add(henryTeleporter, function onMouseDown(teleporter:FlxSprite)
 					{
 						henryTeleporter.visible = false;
 						henryTeleport();

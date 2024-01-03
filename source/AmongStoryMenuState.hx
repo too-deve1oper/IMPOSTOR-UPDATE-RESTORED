@@ -20,6 +20,7 @@ import flixel.tweens.FlxTween;
 import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
 import lime.net.curl.CURLCode;
+import flixel.input.mouse.FlxMouseEvent;
 import flixel.input.mouse.FlxMouseEventManager;
 import ClientPrefs;
 import ChromaticAbberation;
@@ -243,7 +244,7 @@ class AmongStoryMenuState extends MusicBeatState
 		add(back);
 		back.cameras = [camScreen];
 
-		FlxMouseEventManager.add(back, function onMouseDown(back:FlxSprite){
+		FlxMouseEvent.add(back, function onMouseDown(back:FlxSprite){
 			FlxG.sound.play(Paths.sound('cancelMenu'));
 			movedBack = true;
 			MusicBeatState.switchState(new MainMenuState());
@@ -269,7 +270,7 @@ class AmongStoryMenuState extends MusicBeatState
 			var weekCircle:FlxSprite = new FlxSprite(0, 50).loadGraphic(Paths.image('storymenu/circle', 'impostor'));
 			weekCircle.antialiasing = ClientPrefs.globalAntialiasing;
 
-			FlxMouseEventManager.add(weekCircle, function onMouseDown(weekCircle:FlxSprite){
+			FlxMouseEvent.add(weekCircle, function onMouseDown(weekCircle:FlxSprite){
 				if(curWeek == i && curWeek != 0){
 					openDiff();
 					FlxG.sound.play(Paths.sound('panelAppear', 'impostor'), 0.5);
@@ -549,7 +550,7 @@ class AmongStoryMenuState extends MusicBeatState
         add(panel);
 		panel.cameras = [camScreen];
 
-		FlxMouseEventManager.add(panel, function onMouseDown(panel:FlxSprite){
+		FlxMouseEvent.add(panel, function onMouseDown(panel:FlxSprite){
 			changeDifficulty(1);
 		}, null);
 

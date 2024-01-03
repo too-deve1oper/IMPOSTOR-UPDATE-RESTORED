@@ -19,6 +19,7 @@ import Character;
 import flixel.tweens.FlxEase;
 import flixel.util.FlxTimer;
 import flixel.tweens.FlxTween;
+import flixel.input.mouse.FlxMouseEvent;
 import flixel.input.mouse.FlxMouseEventManager;
 
 using StringTools;
@@ -322,7 +323,7 @@ class ShopState extends MusicBeatState
 		crossImage.updateHitbox();
 		crossImage.cameras = [camUpper];
 		add(crossImage);
-        FlxMouseEventManager.add(crossImage, function onMouseDown(s:FlxSprite)
+        FlxMouseEvent.add(crossImage, function onMouseDown(s:FlxSprite)
 		{
 			goBack();
 		}, null, null);
