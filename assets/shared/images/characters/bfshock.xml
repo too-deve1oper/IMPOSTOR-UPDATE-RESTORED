@@ -1,11 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="bfshock.png">
-	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+<TextureAtlas imagePath="shockdialoguebf.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="BF idle dance instance 10000" x="0" y="0" width="409" height="416"/>
-	<SubTexture name="BF idle dance instance 10001" x="418" y="0" width="409" height="416"/>
-	<SubTexture name="BF idle dance instance 10002" x="836" y="0" width="409" height="416"/>
-	<SubTexture name="BF idle dance instance 10003" x="1254" y="0" width="409" height="416"/>
-	<SubTexture name="BF idle dance instance 10004" x="0" y="425" width="409" height="416"/>
-	<SubTexture name="BF idle dance instance 10005" x="418" y="425" width="409" height="416"/>
+	<SubTexture name="BF SHOCK0000" x="0" y="429" width="404" height="425" frameX="0" frameY="-3" frameWidth="404" frameHeight="429"/>
+	<SubTexture name="BF SHOCK0001" x="0" y="0" width="402" height="429" frameX="-1" frameY="0" frameWidth="404" frameHeight="429"/>
 </TextureAtlas>

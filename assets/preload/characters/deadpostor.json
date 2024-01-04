@@ -1,0 +1,130 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				-220
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				510
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "intro",
+			"fps": 24,
+			"name": "coming into light",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				390,
+				60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left2",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				0
+			],
+			"anim": "outro",
+			"fps": 24,
+			"name": "coming into light",
+			"indices": [
+				19,
+				18,
+				17,
+				16,
+				15,
+				14,
+				13,
+				12,
+				11,
+				10,
+				9,
+				8,
+				7,
+				6,
+				5,
+				4,
+				3,
+				2,
+				1,
+				0
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/deadpostor",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "deadpostor",
+	"flip_x": false,
+	"healthbar_colors": [
+		244,
+		231,
+		237
+	],
+	"camera_position": [
+		-220,
+		40
+	],
+	"sing_duration": 3.1,
+	"scale": 1
+}

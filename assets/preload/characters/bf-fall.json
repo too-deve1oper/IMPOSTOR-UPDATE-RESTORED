@@ -1,102 +1,109 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [
-				-5,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "idle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				1,
-				-1
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				8,
-				-37
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-66,
-				59
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "up",
-			"indices": []
-		},
-		{
-			"loop": false,
 			"offsets": [
 				-18,
 				9
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "MISS 0left",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISS 0left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-15,
 				-19
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "MISS 1down",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MISS 1down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-36,
 				27
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "MISS 2up",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISS 2up"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-44,
-				22
+				636,
+				254
 			],
-			"anim": "singRIGHTmiss",
+			"anim": "firstDeath",
 			"fps": 24,
-			"name": "MISS 3right",
+			"name": "dead 0START",
 			"indices": []
 		},
 		{
+			"offsets": [
+				636,
+				-171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "dead 2END"
+		},
+		{
+			"offsets": [
+				636,
+				-223
+			],
 			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "dead 1MID"
+		},
+		{
+			"offsets": [
+				3,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "fall 0left"
+		},
+		{
+			"offsets": [
+				32,
+				-19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "fall 1down"
+		},
+		{
+			"offsets": [
+				-28,
+				59
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "fall 2up"
+		},
+		{
 			"offsets": [
 				-5,
 				0
 			],
-			"anim": "idle-loop",
-			"fps": 24,
-			"name": "idle",
 			"indices": [
 				8,
 				9,
@@ -109,115 +116,44 @@
 				16,
 				17,
 				18
-			]
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "fall !idle"
 		},
 		{
-			"loop": true,
 			"offsets": [
-				2,
+				-44,
+				22
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "MISS 3right"
+		},
+		{
+			"offsets": [
+				-33,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "fall 3right"
+		},
+		{
+			"offsets": [
+				-5,
 				0
 			],
-			"anim": "singLEFT-loop",
-			"fps": 24,
-			"name": "left",
-			"indices": [
-				3,
-				4,
-				5,
-				6
-			]
-		},
-		{
-			"loop": true,
-			"offsets": [
-				8,
-				-37
-			],
-			"anim": "singDOWN-loop",
-			"fps": 24,
-			"name": "down",
-			"indices": [
-				3,
-				4,
-				5,
-				6
-			]
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-63,
-				-5
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "right",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-64,
-				-5
-			],
-			"anim": "singRIGHT-loop",
-			"fps": 24,
-			"name": "right",
-			"indices": [
-				3,
-				4,
-				5,
-				6
-			]
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-66,
-				59
-			],
-			"anim": "singUP-loop",
-			"fps": 24,
-			"name": "up",
-			"indices": [
-				3,
-				4,
-				5,
-				6
-			]
-		},
-		{
-			"offsets": [
-				636,
-				254
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "firstDeath",
 			"indices": [],
-			"name": "dead 0START"
-		},
-		{
+			"fps": 24,
+			"anim": "idle",
 			"loop": false,
-			"offsets": [
-				636,
-				-171
-			],
-			"anim": "deathConfirm",
-			"fps": 24,
-			"name": "dead 2END",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				636,
-				-288
-			],
-			"anim": "deathLoop",
-			"fps": 24,
-			"name": "dead 1MID",
-			"indices": []
+			"name": "fall !idle"
 		}
 	],
 	"no_antialiasing": false,

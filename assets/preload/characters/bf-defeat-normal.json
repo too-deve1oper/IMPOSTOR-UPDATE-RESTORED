@@ -1,64 +1,64 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-3,
-				-1
-			],
 			"loop": false,
+			"offsets": [
+				-5,
+				-4
+			],
 			"anim": "idle",
 			"fps": 24,
 			"name": "BF idle dance",
 			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-46,
-				-1
+				-40,
+				-4
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "left"
+			"fps": 24,
+			"name": "BF NOTE LEFT0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-46,
-				-15
+				-39,
+				-20
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "down"
-		},
-		{
-			"offsets": [
-				-47,
-				9
-			],
-			"indices": [],
 			"fps": 24,
-			"anim": "singUP",
-			"loop": false,
-			"name": "up"
+			"name": "BF NOTE DOWN0",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-49,
-				-3
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singRIGHT",
 			"loop": false,
-			"name": "right"
-		},
-		{
 			"offsets": [
-				-37,
+				-43,
 				4
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-14,
+				-14
 			],
 			"indices": [],
 			"fps": 24,
@@ -68,19 +68,19 @@
 		},
 		{
 			"offsets": [
-				-37,
-				4
+				-14,
+				-14
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "singRIGHTmiss",
+			"anim": "singDOWNmiss",
 			"loop": false,
 			"name": "miss"
 		},
 		{
 			"offsets": [
-				-38,
-				3
+				-14,
+				-14
 			],
 			"indices": [],
 			"fps": 24,
@@ -90,12 +90,12 @@
 		},
 		{
 			"offsets": [
-				-38,
-				3
+				-14,
+				-14
 			],
 			"indices": [],
 			"fps": 24,
-			"anim": "singDOWNmiss",
+			"anim": "singRIGHTmiss",
 			"loop": false,
 			"name": "miss"
 		}
@@ -114,8 +114,8 @@
 		209
 	],
 	"camera_position": [
-		0,
-		0
+		100,
+		-40
 	],
 	"sing_duration": 4,
 	"scale": 1

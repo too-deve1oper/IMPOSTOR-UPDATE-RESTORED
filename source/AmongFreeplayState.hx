@@ -206,6 +206,7 @@ class AmongFreeplayState extends MusicBeatState
 		portrait.animation.addByIndices('monotoner', 'Character', [40], null, 24, true);
 		portrait.animation.addByIndices('idk', 'Character', [41], null, 24, true);
 		portrait.animation.addByIndices('esculent', 'Character', [42], null, 24, true);
+		portrait.animation.addByIndices('unknown', 'Character', [0], null, 24, true);
 		portrait.animation.play('red');
 		portrait.antialiasing = true;
 		portrait.setPosition(304.65, -100);
@@ -399,6 +400,13 @@ class AmongFreeplayState extends MusicBeatState
 				FlxG.sound.play(Paths.sound('cancelMenu'));
 				MusicBeatState.switchState(new MainMenuState());
 			}
+			if (!accepted)
+				{
+					if (FlxG.keys.justPressed.SEVEN)
+						{
+							Highscore.saveScore('ejected', 1000000, 2, -1);
+						}
+				}
 			//
 			if (accepted)
 			{
@@ -531,7 +539,8 @@ class AmongFreeplayState extends MusicBeatState
 				["Sussus Toogus", "crewmate", 'green', FlxColor.fromRGB(0, 255, 0), FROM_STORY_MODE, ['sussus-toogus'], 0, false],
 				["Lights Down", "impostor3", 'green', FlxColor.fromRGB(0, 255, 0), FROM_STORY_MODE, ['lights-down'], 0, false],
 				["Reactor", "impostor3", 'green', FlxColor.fromRGB(0, 255, 0), FROM_STORY_MODE, ['reactor'], 0, false],
-				["Ejected", "parasite", 'para', FlxColor.fromRGB(0, 255, 0), FROM_STORY_MODE, ['ejected'], 0, false]
+				["Ejected", "parasite", 'para', FlxColor.fromRGB(0, 255, 0), FROM_STORY_MODE, ['ejected'], 0, false],
+				["Double Trouble", "parasite", 'para', FlxColor.fromRGB(0, 255, 0), SPECIAL, ['ejected'], 0, false]
 			],
 
 			section: 0
@@ -552,6 +561,7 @@ class AmongFreeplayState extends MusicBeatState
 		weeks.push({
 			songs: [
 				["Defeat", "black", 'black', FlxColor.fromRGB(179, 0, 255), FROM_STORY_MODE, ['defeat'], 0, false],
+				["Ominous", "black", 'black', FlxColor.fromRGB(179, 0, 255), SPECIAL, ['defeat'], 0, false],
 				["Finale", "black", 'finale', FlxColor.fromRGB(179, 0, 255), SPECIAL, ['finale'], 0, false]
 			],
 
@@ -559,7 +569,10 @@ class AmongFreeplayState extends MusicBeatState
 		});
 
 		weeks.push({
-			songs: [["Identity Crisis", "monotone", 'monotone', FlxColor.BLACK, SPECIAL, ['meltdown', 'ejected', 'double-kill', 'defeat', 'boiling-point', 'neurotic', 'pretender'], 0, false]],
+			songs: [
+				["Identity Crisis", "monotone", 'monotone', FlxColor.BLACK, SPECIAL, ['meltdown', 'ejected', 'double-kill', 'defeat', 'boiling-point', 'neurotic', 'pretender'], 0, false],
+				["Compromised Persona", "monotone", 'monotone', FlxColor.BLACK, SPECIAL, ['identity-crisis'], 0, false]
+			],
 			section: 0
 		});
 
@@ -638,6 +651,7 @@ class AmongFreeplayState extends MusicBeatState
 		weeks.push({
 			songs: [
 				["Christmas", "fella", 'loggo', FlxColor.fromRGB(0, 255, 0), FROM_STORY_MODE, ['christmas'], 0, false],
+				["Christmas Hard", "fella", 'loggo', FlxColor.fromRGB(0, 255, 0), SPECIAL, ['christmas'], 0, false],
 				["Spookpostor", "boo", 'loggo', FlxColor.fromRGB(0, 255, 0), FROM_STORY_MODE, ['spookpostor'], 0, false]
 			],
 
@@ -689,6 +703,16 @@ class AmongFreeplayState extends MusicBeatState
 			],
 
 			section: 8
+		});
+
+		weeks.push({
+			songs: [
+				["Monochrome", "deadpostor", 'unknown', FlxColor.fromRGB(255, 60, 38), BEANS, [], 0, false],
+				["Grinch", "placeholder", 'unknown', FlxColor.fromRGB(255, 60, 38), BEANS, [], 0, false],
+				["Torture", "ziffy", 'torture', FlxColor.fromRGB(188, 106, 223), BEANS, [], 0, false]
+			],
+
+			section: 9
 		});
 
 		return weeks;

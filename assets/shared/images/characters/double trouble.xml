@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="double trouble.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mungus idle instance 10000" x="5" y="5" width="531" height="468" frameX="-22" frameY="-48" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10001" x="541" y="5" width="531" height="468" frameX="-22" frameY="-48" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10002" x="1077" y="5" width="536" height="467" frameX="-17" frameY="-49" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10003" x="1618" y="5" width="536" height="468" frameX="-17" frameY="-49" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10004" x="2159" y="5" width="568" height="463" frameX="0" frameY="-52" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10005" x="2732" y="5" width="568" height="464" frameX="0" frameY="-52" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10006" x="3305" y="5" width="545" height="462" frameX="-22" frameY="-53" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10007" x="3855" y="5" width="545" height="463" frameX="-22" frameY="-53" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10008" x="4405" y="5" width="500" height="461" frameX="-39" frameY="-53" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10009" x="4910" y="5" width="500" height="462" frameX="-39" frameY="-53" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10010" x="5415" y="5" width="479" height="461" frameX="-44" frameY="-53" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10011" x="5899" y="5" width="479" height="462" frameX="-44" frameY="-53" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10012" x="6383" y="5" width="481" height="461" frameX="-38" frameY="-53" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10013" x="6869" y="5" width="481" height="462" frameX="-38" frameY="-53" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10014" x="7355" y="5" width="537" height="486" frameX="-21" frameY="-29" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10015" x="5" y="496" width="502" height="464" frameX="-21" frameY="-52" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10016" x="512" y="496" width="566" height="516" frameX="-5" frameY="0" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10017" x="1083" y="496" width="533" height="467" frameX="-5" frameY="-50" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10018" x="1621" y="496" width="540" height="468" frameX="-22" frameY="-48" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10019" x="2166" y="496" width="540" height="469" frameX="-22" frameY="-48" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10020" x="2711" y="496" width="528" height="466" frameX="-22" frameY="-49" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10021" x="3244" y="496" width="528" height="467" frameX="-22" frameY="-49" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10022" x="3777" y="496" width="535" height="463" frameX="-2" frameY="-51" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10023" x="4317" y="496" width="535" height="463" frameX="-2" frameY="-51" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10024" x="4857" y="496" width="480" height="461" frameX="-43" frameY="-52" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10025" x="5342" y="496" width="480" height="461" frameX="-43" frameY="-52" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10026" x="5827" y="496" width="477" height="461" frameX="-44" frameY="-52" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10027" x="6309" y="496" width="474" height="460" frameX="-44" frameY="-52" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10028" x="6788" y="496" width="479" height="461" frameX="-43" frameY="-52" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10029" x="7272" y="496" width="489" height="460" frameX="-43" frameY="-52" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10030" x="5" y="1017" width="496" height="463" frameX="-42" frameY="-50" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10031" x="506" y="1017" width="496" height="463" frameX="-42" frameY="-50" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10032" x="1007" y="1017" width="546" height="465" frameX="-24" frameY="-49" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10033" x="1558" y="1017" width="546" height="465" frameX="-24" frameY="-49" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10034" x="2109" y="1017" width="554" height="467" frameX="-1" frameY="-47" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="mungus idle instance 10035" x="2668" y="1017" width="554" height="468" frameX="-1" frameY="-47" frameWidth="571" frameHeight="517"/>
+	<SubTexture name="paracite down instance 10000" x="3227" y="1017" width="461" height="447" frameX="-22" frameY="-4" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="paracite down instance 10001" x="3693" y="1017" width="459" height="445" frameX="-24" frameY="-4" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="paracite down instance 10002" x="4157" y="1017" width="457" height="431" frameX="-22" frameY="-11" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="paracite down instance 10003" x="4619" y="1017" width="457" height="431" frameX="-22" frameY="-11" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="paracite down instance 10004" x="5081" y="1017" width="459" height="432" frameX="-17" frameY="-8" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="paracite down instance 10005" x="5545" y="1017" width="459" height="432" frameX="-17" frameY="-8" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="paracite down instance 10006" x="6009" y="1017" width="462" height="436" frameX="-12" frameY="0" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="paracite down instance 10007" x="6476" y="1017" width="462" height="436" frameX="-12" frameY="0" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="paracite down instance 10008" x="6943" y="1017" width="477" height="435" frameX="0" frameY="0" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="paracite down instance 10009" x="7425" y="1017" width="477" height="435" frameX="0" frameY="0" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="paracite down instance 10010" x="5" y="1490" width="459" height="435" frameX="-13" frameY="0" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="paracite down instance 10011" x="469" y="1490" width="459" height="435" frameX="-13" frameY="0" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="paracite down instance 10012" x="933" y="1490" width="455" height="436" frameX="-17" frameY="0" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="paracite down instance 10013" x="1393" y="1490" width="455" height="436" frameX="-17" frameY="0" frameWidth="483" frameHeight="451"/>
+	<SubTexture name="parashite up instance 10000" x="1853" y="1490" width="409" height="578" frameX="-171" frameY="-54" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parashite up instance 10001" x="2267" y="1490" width="409" height="577" frameX="-171" frameY="-54" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parashite up instance 10002" x="2681" y="1490" width="424" height="632" frameX="-156" frameY="0" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parashite up instance 10003" x="3110" y="1490" width="424" height="632" frameX="-156" frameY="0" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parashite up instance 10004" x="3539" y="1490" width="473" height="540" frameX="-105" frameY="-89" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parashite up instance 10005" x="4017" y="1490" width="473" height="539" frameX="-105" frameY="-89" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parashite up instance 10006" x="4495" y="1490" width="578" height="459" frameX="0" frameY="-167" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parashite up instance 10007" x="5078" y="1490" width="578" height="458" frameX="0" frameY="-167" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parashite up instance 10008" x="5661" y="1490" width="541" height="468" frameX="-38" frameY="-157" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parashite up instance 10009" x="6207" y="1490" width="532" height="436" frameX="-47" frameY="-188" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parashite up instance 10010" x="6744" y="1490" width="509" height="457" frameX="-70" frameY="-169" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parashite up instance 10011" x="7258" y="1490" width="508" height="491" frameX="-71" frameY="-134" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parashite up instance 10012" x="5" y="2127" width="507" height="497" frameX="-71" frameY="-129" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parashite up instance 10013" x="517" y="2127" width="507" height="496" frameX="-71" frameY="-129" frameWidth="580" frameHeight="632"/>
+	<SubTexture name="parasite down bothsing instance 10000" x="1029" y="2127" width="460" height="448" frameX="-23" frameY="-4" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down bothsing instance 10001" x="1494" y="2127" width="459" height="446" frameX="-24" frameY="-4" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down bothsing instance 10002" x="1958" y="2127" width="457" height="431" frameX="-22" frameY="-11" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down bothsing instance 10003" x="2420" y="2127" width="457" height="431" frameX="-22" frameY="-11" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down bothsing instance 10004" x="2882" y="2127" width="459" height="432" frameX="-17" frameY="-8" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down bothsing instance 10005" x="3346" y="2127" width="459" height="432" frameX="-17" frameY="-8" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down bothsing instance 10006" x="3810" y="2127" width="462" height="436" frameX="-12" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down bothsing instance 10007" x="4277" y="2127" width="462" height="436" frameX="-12" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down bothsing instance 10008" x="4744" y="2127" width="478" height="435" frameX="0" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down bothsing instance 10009" x="5227" y="2127" width="478" height="435" frameX="0" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down bothsing instance 10010" x="5710" y="2127" width="460" height="436" frameX="-13" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down bothsing instance 10011" x="6175" y="2127" width="460" height="436" frameX="-13" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down bothsing instance 10012" x="6640" y="2127" width="454" height="437" frameX="-18" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down bothsing instance 10013" x="7099" y="2127" width="454" height="437" frameX="-18" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10000" x="7558" y="2127" width="460" height="447" frameX="-23" frameY="-5" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10001" x="5" y="2629" width="459" height="446" frameX="-24" frameY="-5" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10002" x="469" y="2629" width="457" height="431" frameX="-22" frameY="-12" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10003" x="931" y="2629" width="457" height="431" frameX="-22" frameY="-12" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10004" x="1393" y="2629" width="459" height="432" frameX="-17" frameY="-9" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10005" x="1857" y="2629" width="459" height="432" frameX="-17" frameY="-9" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10006" x="2321" y="2629" width="462" height="437" frameX="-12" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10007" x="2788" y="2629" width="462" height="437" frameX="-12" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10008" x="3255" y="2629" width="478" height="436" frameX="0" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10009" x="3738" y="2629" width="478" height="436" frameX="0" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10010" x="4221" y="2629" width="460" height="437" frameX="-13" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10011" x="4686" y="2629" width="460" height="437" frameX="-13" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10012" x="5151" y="2629" width="455" height="438" frameX="-18" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite down redsing instance 10013" x="5611" y="2629" width="455" height="438" frameX="-18" frameY="0" frameWidth="483" frameHeight="452"/>
+	<SubTexture name="parasite left bothsing instance 10000" x="6071" y="2629" width="529" height="472" frameX="0" frameY="0" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left bothsing instance 10001" x="6605" y="2629" width="526" height="472" frameX="-3" frameY="0" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left bothsing instance 10002" x="7136" y="2629" width="531" height="470" frameX="-7" frameY="-4" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left bothsing instance 10003" x="5" y="3106" width="531" height="470" frameX="-7" frameY="-4" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left bothsing instance 10004" x="541" y="3106" width="531" height="472" frameX="-10" frameY="-2" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left bothsing instance 10005" x="1077" y="3106" width="531" height="472" frameX="-10" frameY="-2" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left bothsing instance 10006" x="1613" y="3106" width="509" height="473" frameX="-28" frameY="-1" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left bothsing instance 10007" x="2127" y="3106" width="509" height="473" frameX="-28" frameY="-1" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left bothsing instance 10008" x="2641" y="3106" width="509" height="473" frameX="-28" frameY="-1" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left bothsing instance 10009" x="3155" y="3106" width="480" height="496" frameX="-35" frameY="0" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left bothsing instance 10010" x="3640" y="3106" width="480" height="496" frameX="-35" frameY="0" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left bothsing instance 10011" x="4125" y="3106" width="477" height="498" frameX="-38" frameY="0" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left bothsing instance 10012" x="4607" y="3106" width="477" height="497" frameX="-38" frameY="-1" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left bothsing instance 10013" x="5089" y="3106" width="477" height="498" frameX="-38" frameY="0" frameWidth="541" frameHeight="498"/>
+	<SubTexture name="parasite left instance 10000" x="5571" y="3106" width="529" height="470" frameX="0" frameY="0" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left instance 10001" x="6105" y="3106" width="526" height="470" frameX="-3" frameY="0" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left instance 10002" x="6636" y="3106" width="531" height="469" frameX="-7" frameY="-3" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left instance 10003" x="7172" y="3106" width="531" height="469" frameX="-7" frameY="-3" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left instance 10004" x="5" y="3609" width="531" height="470" frameX="-10" frameY="-2" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left instance 10005" x="541" y="3609" width="531" height="470" frameX="-10" frameY="-2" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left instance 10006" x="1077" y="3609" width="509" height="472" frameX="-28" frameY="0" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left instance 10007" x="1591" y="3609" width="509" height="472" frameX="-28" frameY="0" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left instance 10008" x="2105" y="3609" width="509" height="472" frameX="-28" frameY="0" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left instance 10009" x="2619" y="3609" width="480" height="494" frameX="-35" frameY="0" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left instance 10010" x="3104" y="3609" width="480" height="494" frameX="-35" frameY="0" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left instance 10011" x="3589" y="3609" width="477" height="496" frameX="-38" frameY="0" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left instance 10012" x="4071" y="3609" width="477" height="496" frameX="-38" frameY="0" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left instance 10013" x="4553" y="3609" width="477" height="496" frameX="-38" frameY="0" frameWidth="541" frameHeight="496"/>
+	<SubTexture name="parasite left redsing instance 10000" x="5035" y="3609" width="529" height="471" frameX="0" frameY="0" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite left redsing instance 10001" x="5569" y="3609" width="526" height="471" frameX="-3" frameY="0" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite left redsing instance 10002" x="6100" y="3609" width="532" height="470" frameX="-6" frameY="-3" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite left redsing instance 10003" x="6637" y="3609" width="532" height="470" frameX="-6" frameY="-3" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite left redsing instance 10004" x="7174" y="3609" width="531" height="471" frameX="-10" frameY="-2" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite left redsing instance 10005" x="5" y="4110" width="531" height="471" frameX="-10" frameY="-2" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite left redsing instance 10006" x="541" y="4110" width="509" height="473" frameX="-28" frameY="0" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite left redsing instance 10007" x="1055" y="4110" width="509" height="473" frameX="-28" frameY="0" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite left redsing instance 10008" x="1569" y="4110" width="509" height="473" frameX="-28" frameY="0" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite left redsing instance 10009" x="2083" y="4110" width="480" height="495" frameX="-35" frameY="0" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite left redsing instance 10010" x="2568" y="4110" width="480" height="495" frameX="-35" frameY="0" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite left redsing instance 10011" x="3053" y="4110" width="477" height="497" frameX="-38" frameY="0" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite left redsing instance 10012" x="3535" y="4110" width="477" height="497" frameX="-38" frameY="0" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite left redsing instance 10013" x="4017" y="4110" width="477" height="497" frameX="-38" frameY="0" frameWidth="541" frameHeight="497"/>
+	<SubTexture name="parasite right bothsing instance 10000" x="4499" y="4110" width="506" height="470" frameX="-5" frameY="-11" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right bothsing instance 10001" x="5010" y="4110" width="506" height="470" frameX="-5" frameY="-11" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right bothsing instance 10002" x="5521" y="4110" width="491" height="468" frameX="0" frameY="-10" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right bothsing instance 10003" x="6017" y="4110" width="491" height="467" frameX="0" frameY="-10" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right bothsing instance 10004" x="6513" y="4110" width="468" height="473" frameX="-13" frameY="-4" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right bothsing instance 10005" x="6986" y="4110" width="468" height="472" frameX="-13" frameY="-4" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right bothsing instance 10006" x="7459" y="4110" width="458" height="471" frameX="-16" frameY="-4" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right bothsing instance 10007" x="5" y="4612" width="458" height="471" frameX="-16" frameY="-4" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right bothsing instance 10008" x="468" y="4612" width="457" height="474" frameX="-16" frameY="0" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right bothsing instance 10009" x="930" y="4612" width="457" height="473" frameX="-16" frameY="0" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right bothsing instance 10010" x="1392" y="4612" width="431" height="473" frameX="-16" frameY="0" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right bothsing instance 10011" x="1828" y="4612" width="431" height="472" frameX="-16" frameY="0" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right bothsing instance 10012" x="2264" y="4612" width="433" height="473" frameX="-16" frameY="0" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right bothsing instance 10013" x="2702" y="4612" width="433" height="472" frameX="-16" frameY="0" frameWidth="511" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10000" x="3140" y="4612" width="507" height="470" frameX="-5" frameY="-11" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10001" x="3652" y="4612" width="507" height="469" frameX="-5" frameY="-11" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10002" x="4164" y="4612" width="491" height="468" frameX="0" frameY="-10" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10003" x="4660" y="4612" width="491" height="467" frameX="0" frameY="-10" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10004" x="5156" y="4612" width="468" height="472" frameX="-13" frameY="-5" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10005" x="5629" y="4612" width="468" height="471" frameX="-13" frameY="-5" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10006" x="6102" y="4612" width="458" height="470" frameX="-16" frameY="-5" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10007" x="6565" y="4612" width="458" height="469" frameX="-16" frameY="-5" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10008" x="7028" y="4612" width="457" height="474" frameX="-16" frameY="0" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10009" x="7490" y="4612" width="457" height="473" frameX="-16" frameY="0" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10010" x="5" y="5091" width="432" height="473" frameX="-16" frameY="0" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10011" x="442" y="5091" width="432" height="472" frameX="-16" frameY="0" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10012" x="879" y="5091" width="434" height="472" frameX="-16" frameY="0" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right new instance 10013" x="1318" y="5091" width="434" height="472" frameX="-16" frameY="0" frameWidth="512" frameHeight="481"/>
+	<SubTexture name="parasite right redsing instance 10000" x="1757" y="5091" width="506" height="471" frameX="-5" frameY="-11" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite right redsing instance 10001" x="2268" y="5091" width="506" height="470" frameX="-5" frameY="-11" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite right redsing instance 10002" x="2779" y="5091" width="491" height="468" frameX="0" frameY="-10" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite right redsing instance 10003" x="3275" y="5091" width="491" height="468" frameX="0" frameY="-10" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite right redsing instance 10004" x="3771" y="5091" width="468" height="472" frameX="-13" frameY="-5" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite right redsing instance 10005" x="4244" y="5091" width="468" height="471" frameX="-13" frameY="-5" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite right redsing instance 10006" x="4717" y="5091" width="458" height="472" frameX="-16" frameY="-4" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite right redsing instance 10007" x="5180" y="5091" width="458" height="471" frameX="-16" frameY="-4" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite right redsing instance 10008" x="5643" y="5091" width="457" height="474" frameX="-16" frameY="0" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite right redsing instance 10009" x="6105" y="5091" width="457" height="473" frameX="-16" frameY="0" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite right redsing instance 10010" x="6567" y="5091" width="431" height="473" frameX="-16" frameY="0" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite right redsing instance 10011" x="7003" y="5091" width="431" height="473" frameX="-16" frameY="0" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite right redsing instance 10012" x="7439" y="5091" width="434" height="473" frameX="-16" frameY="0" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite right redsing instance 10013" x="5" y="5570" width="434" height="472" frameX="-16" frameY="0" frameWidth="511" frameHeight="482"/>
+	<SubTexture name="parasite up bothsing instance 10000" x="444" y="5570" width="409" height="559" frameX="-21" frameY="0" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up bothsing instance 10001" x="858" y="5570" width="409" height="558" frameX="-21" frameY="0" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up bothsing instance 10002" x="1272" y="5570" width="409" height="554" frameX="-21" frameY="-6" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up bothsing instance 10003" x="1686" y="5570" width="409" height="539" frameX="-21" frameY="-20" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up bothsing instance 10004" x="2100" y="5570" width="407" height="534" frameX="-21" frameY="-22" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up bothsing instance 10005" x="2512" y="5570" width="407" height="533" frameX="-21" frameY="-22" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up bothsing instance 10006" x="2924" y="5570" width="407" height="525" frameX="-21" frameY="-29" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up bothsing instance 10007" x="3336" y="5570" width="407" height="524" frameX="-21" frameY="-29" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up bothsing instance 10008" x="3748" y="5570" width="408" height="523" frameX="-21" frameY="-29" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up bothsing instance 10009" x="4161" y="5570" width="408" height="522" frameX="-21" frameY="-29" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up bothsing instance 10010" x="4574" y="5570" width="408" height="519" frameX="-21" frameY="-34" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up bothsing instance 10011" x="4987" y="5570" width="408" height="519" frameX="-21" frameY="-34" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up bothsing instance 10012" x="5400" y="5570" width="428" height="519" frameX="0" frameY="-34" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up bothsing instance 10013" x="5833" y="5570" width="428" height="519" frameX="0" frameY="-34" frameWidth="430" frameHeight="560"/>
+	<SubTexture name="parasite up redsing instance 10000" x="6266" y="5570" width="409" height="559" frameX="-22" frameY="0" frameWidth="431" frameHeight="559"/>
+	<SubTexture name="parasite up redsing instance 10001" x="6680" y="5570" width="409" height="558" frameX="-22" frameY="0" frameWidth="431" frameHeight="559"/>
+	<SubTexture name="parasite up redsing instance 10002" x="7094" y="5570" width="409" height="554" frameX="-22" frameY="-5" frameWidth="431" frameHeight="559"/>
+	<SubTexture name="parasite up redsing instance 10003" x="7508" y="5570" width="409" height="539" frameX="-22" frameY="-20" frameWidth="431" frameHeight="559"/>
+	<SubTexture name="parasite up redsing instance 10004" x="5" y="6134" width="407" height="535" frameX="-22" frameY="-21" frameWidth="431" frameHeight="559"/>
+	<SubTexture name="parasite up redsing instance 10005" x="417" y="6134" width="407" height="534" frameX="-22" frameY="-21" frameWidth="431" frameHeight="559"/>
+	<SubTexture name="parasite up redsing instance 10006" x="829" y="6134" width="407" height="525" frameX="-22" frameY="-28" frameWidth="431" frameHeight="559"/>
+	<SubTexture name="parasite up redsing instance 10007" x="1241" y="6134" width="407" height="524" frameX="-22" frameY="-28" frameWidth="431" frameHeight="559"/>
+	<SubTexture name="parasite up redsing instance 10008" x="1653" y="6134" width="408" height="523" frameX="-22" frameY="-29" frameWidth="431" frameHeight="559"/>
+	<SubTexture name="parasite up redsing instance 10009" x="2066" y="6134" width="408" height="522" frameX="-22" frameY="-29" frameWidth="431" frameHeight="559"/>
+	<SubTexture name="parasite up redsing instance 10010" x="2479" y="6134" width="409" height="520" frameX="-21" frameY="-33" frameWidth="431" frameHeight="559"/>
+	<SubTexture name="parasite up redsing instance 10011" x="2893" y="6134" width="409" height="519" frameX="-21" frameY="-33" frameWidth="431" frameHeight="559"/>
+	<SubTexture name="parasite up redsing instance 10012" x="3307" y="6134" width="429" height="520" frameX="0" frameY="-33" frameWidth="431" frameHeight="559"/>
+	<SubTexture name="parasite up redsing instance 10013" x="3741" y="6134" width="429" height="519" frameX="0" frameY="-33" frameWidth="431" frameHeight="559"/>
+</TextureAtlas>

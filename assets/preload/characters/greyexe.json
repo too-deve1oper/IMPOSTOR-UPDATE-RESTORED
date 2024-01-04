@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				210,
+				-40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ghost Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				270,
+				-52
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ghost Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				155,
+				-98
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ghost Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				199,
+				-38
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ghost Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				245,
+				-65
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ghost Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/greyexe",
+	"position": [
+		750,
+		50
+	],
+	"healthicon": "grayexe",
+	"flip_x": false,
+	"healthbar_colors": [
+		117,
+		103,
+		137
+	],
+	"camera_position": [
+		-80,
+		80
+	],
+	"sing_duration": 10,
+	"scale": 0.9
+}

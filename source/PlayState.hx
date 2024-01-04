@@ -6348,7 +6348,6 @@ class PlayState extends MusicBeatState
 			}
 		}
 
-		#if debug
 		if (FlxG.keys.justPressed.SEVEN && !endingSong && !inCutscene)
 		{
 			persistentUpdate = false;
@@ -6366,7 +6365,6 @@ class PlayState extends MusicBeatState
 			{
 				cpuControlled = !cpuControlled; //sorry i just dont wanna play the song each time i change a small thing
 			}
-		#end
 
 		// FlxG.watch.addQuick('VOL', vocals.amplitudeLeft);
 		// FlxG.watch.addQuick('VOLRight', vocals.amplitudeRight);

@@ -3,7 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
+				-5,
 				0
 			],
 			"anim": "idle",
@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				15,
-				-10
+				0,
+				-4
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -25,8 +25,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-10,
-				-50
+				-12,
+				-49
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-40,
-				20
+				-26,
+				28
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -47,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-51,
-				-5
+				-53,
+				-3
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -58,8 +58,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				13,
-				8
+				-1,
+				-1
 			],
 			"anim": "singLEFTmiss",
 			"fps": 24,
@@ -69,8 +69,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-18,
-				-29
+				-16,
+				-60
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
@@ -80,8 +80,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-29,
-				19
+				-36,
+				17
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
@@ -91,8 +91,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-36,
-				12
+				-50,
+				10
 			],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
@@ -100,84 +100,15 @@
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
-				0,
-				0
+				-4,
+				3
 			],
-			"anim": "idle-loop",
+			"anim": "hey",
 			"fps": 24,
-			"name": "BF idle dance",
-			"indices": [
-				10,
-				11,
-				12,
-				13
-			]
-		},
-		{
-			"loop": true,
-			"offsets": [
-				15,
-				-10
-			],
-			"anim": "singLEFT-loop",
-			"fps": 24,
-			"name": "BF NOTE LEFT0",
-			"indices": [
-				12,
-				13,
-				14,
-				15
-			]
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-40,
-				20
-			],
-			"anim": "singUP-loop",
-			"fps": 24,
-			"name": "BF NOTE UP0",
-			"indices": [
-				11,
-				12,
-				13,
-				14
-			]
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-10,
-				-50
-			],
-			"anim": "singDOWN-loop",
-			"fps": 24,
-			"name": "BF NOTE DOWN0",
-			"indices": [
-				26,
-				27,
-				28,
-				29
-			]
-		},
-		{
-			"offsets": [
-				-51,
-				-5
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"indices": [
-				11,
-				12,
-				13,
-				14
-			],
-			"name": "BF NOTE RIGHT0"
+			"name": "BF HEY",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
@@ -194,8 +125,8 @@
 		209
 	],
 	"camera_position": [
-		0,
-		0
+		100,
+		-40
 	],
 	"sing_duration": 4,
 	"scale": 1

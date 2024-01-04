@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				322,
+				140
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "mungus idle instance 1"
+		},
+		{
+			"offsets": [
+				412,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "parasite left instance 1"
+		},
+		{
+			"offsets": [
+				412,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "parasite left redsing instance 1"
+		},
+		{
+			"offsets": [
+				412,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-duet",
+			"loop": false,
+			"name": "parasite left bothsing instance 1"
+		},
+		{
+			"offsets": [
+				67,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "parasite right new instance 1"
+		},
+		{
+			"offsets": [
+				67,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "parasite right redsing instance 1"
+		},
+		{
+			"offsets": [
+				67,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-duet",
+			"loop": false,
+			"name": "parasite right bothsing instance 1"
+		},
+		{
+			"offsets": [
+				521,
+				371
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "parashite up instance 1"
+		},
+		{
+			"offsets": [
+				200,
+				217
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "parasite up redsing instance 1"
+		},
+		{
+			"offsets": [
+				200,
+				217
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-duet",
+			"loop": false,
+			"name": "parasite up bothsing instance 1"
+		},
+		{
+			"offsets": [
+				187,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "paracite down instance 1"
+		},
+		{
+			"offsets": [
+				187,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "parasite down redsing instance 1"
+		},
+		{
+			"offsets": [
+				187,
+				-80
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-duet",
+			"loop": false,
+			"name": "parasite down bothsing instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/double trouble",
+	"position": [
+		120,
+		150
+	],
+	"healthicon": "dt",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		51,
+		21
+	],
+	"camera_position": [
+		-200,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 2.5
+}
